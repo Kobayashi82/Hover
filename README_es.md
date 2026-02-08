@@ -57,6 +57,6 @@ Este proyecto esta licenciado bajo la WTFPL – [Do What the Fuck You Want to Pu
 
 **🚀 Desarrollado por Kobayashi82 🚀**
 
-*"If you can dock without quicksave, you're doing it wrong"*
+*"Keep calm and trust your TWR"*
 
 </div>
