@@ -14,7 +14,7 @@
   <img src="/Hover.png">
 </div>
 
-# Launch Autopilot
+# Hover
 
 [README in English](README.md)
 
