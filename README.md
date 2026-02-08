@@ -55,7 +55,7 @@ This project is licensed under the WTFPL – [Do What the Fuck You Want to Publi
 
 <div align="center">
 
-**🚀 Desarrollado por Kobayashi82 🚀**
+**🚀 Developed by Kobayashi82 🚀**
 
 *"Keep calm and trust your TWR"*
 
