@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="/images/W_Hover.png">
+  <img src="/images/W_Hover.jpg">
 </div>
 
 # Hover
